@@ -7,7 +7,7 @@ public class TiposPrimitivos {
 	public static void main(String[] args) {
 		
 		boolean diaUtil = true;
-		char nome = 'a';
+		char nome = 'c';
 		byte bytes = 99;
 		short meses = 12;
 		int cep = 34000123;
